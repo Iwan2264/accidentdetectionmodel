@@ -1,0 +1,1 @@
+yolo detect predict model=C:\Users\wansa\Documents\yolo\Implementation\best.pt source="C:\Users\wansa\Documents\yolo\Implementation\test.jpg"
